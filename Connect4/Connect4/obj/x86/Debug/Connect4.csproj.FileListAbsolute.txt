@@ -1,0 +1,20 @@
+c:\users\starrk\documents\visual studio 2010\Projects\Connect4\Connect4\bin\Debug\Connect4.exe
+c:\users\starrk\documents\visual studio 2010\Projects\Connect4\Connect4\bin\Debug\Connect4.pdb
+c:\users\starrk\documents\visual studio 2010\Projects\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+c:\users\starrk\documents\visual studio 2010\Projects\Connect4\Connect4\obj\x86\Debug\Connect4.pdb
+C:\Users\Starrk\Documents\Visual Studio 2010\Projects\Connect4\Connect4\obj\x86\Debug\Connect4.csprojResolveAssemblyReference.cache
+J:\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+J:\Connect4\Connect4\obj\x86\Debug\Connect4.pdb
+J:\Connect4\Connect4\bin\Debug\Connect4.exe
+J:\Connect4\Connect4\bin\Debug\Connect4.pdb
+J:\Connect4\Connect4\obj\x86\Debug\Connect4.csprojResolveAssemblyReference.cache
+E:\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+E:\Connect4\Connect4\obj\x86\Debug\Connect4.pdb
+E:\Connect4\Connect4\bin\Debug\Connect4.exe
+E:\Connect4\Connect4\bin\Debug\Connect4.pdb
+E:\Connect4\Connect4\obj\x86\Debug\Connect4.csprojResolveAssemblyReference.cache
+D:\Users\Starrk\Documents\Mem Stick back up\Connect4\Connect4\obj\x86\Debug\Connect4.exe
+D:\Users\Starrk\Documents\Mem Stick back up\Connect4\Connect4\obj\x86\Debug\Connect4.pdb
+D:\Users\Starrk\Documents\Mem Stick back up\Connect4\Connect4\bin\Debug\Connect4.exe
+D:\Users\Starrk\Documents\Mem Stick back up\Connect4\Connect4\bin\Debug\Connect4.pdb
+D:\Users\Starrk\Documents\Mem Stick back up\Connect4\Connect4\obj\x86\Debug\Connect4.csprojResolveAssemblyReference.cache
